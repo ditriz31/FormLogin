@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FormLogin</string>
+
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="hint_email">Masukkan email</string>
+    <string name="hint_password">Masukkan password</string>
+    <string name="min_6_characters">Min. 6 characters</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in">Log in</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logo_description">Logo aplikasi</string>
+
+    <string name="login_success">Login berhasil! Selamat datang, %1$s</string>
+    <string name="login_invalid">Periksa kembali email dan password Anda</string>
+    <string name="forgot_password_clicked">Fitur lupa password belum tersedia</string>
+    <string name="sign_up_clicked">Fitur daftar akun belum tersedia</string>
+
+    <string name="menu_title">Tugas Form Login</string>
+    <string name="menu_subtitle">Pilih versi layout yang ingin ditampilkan</string>
+    <string name="menu_linear">Linear Layout</string>
+    <string name="menu_relative">Relative Layout</string>
+    <string name="menu_constraint">Constraint Layout</string>
+</resources>
